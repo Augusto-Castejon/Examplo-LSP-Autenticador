@@ -1,5 +1,5 @@
 # lsp_Example
-Código simples que ilustra a aplicação da Substituição de Liskov, feito para a Matéria Padrões de Projeto
+Projeto simples que ilustra a aplicação da Substituição de Liskov, feito para a Matéria Padrões de Projeto
 # Resumo do Projeto
 O projeto é um sistema de autenticação que oferece várias formas de autenticação: por e-mail, biometria e SMS. Para alcançar isso, definimos uma interface chamada Autenticacao, que é implementada por três classes diferentes: AutenticacaoEmail, AutenticacaoBiometrica, e AutenticacaoSMS. Também criamos uma classe GerenciadorUsuarios para gerenciar um conjunto de usuários no sistema, além de métodos para cadastrar e buscar usuários. Finalmente, temos uma classe Usuario para representar os usuários no sistema.
 
